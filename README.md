@@ -39,10 +39,12 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: CIRCUIT DIAGRAM: ![3,1pic](https://github.com/user-attachments/assets/e04ff999-3779-4699-a7a1-205d91b47cd3)
+
 Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
+![3,2pic](https://github.com/user-attachments/assets/155491eb-9afc-4d54-a29e-2ee91f2ab51a)
 
 Tabulation:2
 
